@@ -1,0 +1,13 @@
+E:\aaop_prog\BackendCore\bin\Debug\netcoreapp3.1\BackendCore.exe
+E:\aaop_prog\BackendCore\bin\Debug\netcoreapp3.1\BackendCore.deps.json
+E:\aaop_prog\BackendCore\bin\Debug\netcoreapp3.1\BackendCore.runtimeconfig.json
+E:\aaop_prog\BackendCore\bin\Debug\netcoreapp3.1\BackendCore.runtimeconfig.dev.json
+E:\aaop_prog\BackendCore\bin\Debug\netcoreapp3.1\BackendCore.dll
+E:\aaop_prog\BackendCore\bin\Debug\netcoreapp3.1\BackendCore.pdb
+E:\aaop_prog\BackendCore\obj\Debug\netcoreapp3.1\BackendCore.csprojAssemblyReference.cache
+E:\aaop_prog\BackendCore\obj\Debug\netcoreapp3.1\BackendCore.AssemblyInfoInputs.cache
+E:\aaop_prog\BackendCore\obj\Debug\netcoreapp3.1\BackendCore.AssemblyInfo.cs
+E:\aaop_prog\BackendCore\obj\Debug\netcoreapp3.1\BackendCore.csproj.CoreCompileInputs.cache
+E:\aaop_prog\BackendCore\obj\Debug\netcoreapp3.1\BackendCore.dll
+E:\aaop_prog\BackendCore\obj\Debug\netcoreapp3.1\BackendCore.pdb
+E:\aaop_prog\BackendCore\obj\Debug\netcoreapp3.1\BackendCore.genruntimeconfig.cache

@@ -8,25 +8,20 @@
     ".NETCoreApp,Version=v3.1": []
   },
   "packageFolders": {
-    "C:\\Users\\s164863\\.nuget\\packages\\": {},
-    "C:\\Microsoft\\Xamarin\\NuGet\\": {}
+    "C:\\Users\\borgs\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\OneDrive - Danmarks Tekniske Universitet\\DTU\\SoftwareEngineering\\6th Semester\\C#\\AOOP_Vaccinepas\\AOOP_Vaccine_Pas\\AOOP_Vaccine_Pas.csproj",
+      "projectUniqueName": "E:\\aaop_prog\\AOOP_Vaccine_Pas\\AOOP_Vaccine_Pas.csproj",
       "projectName": "AOOP_Vaccine_Pas",
-      "projectPath": "D:\\OneDrive - Danmarks Tekniske Universitet\\DTU\\SoftwareEngineering\\6th Semester\\C#\\AOOP_Vaccinepas\\AOOP_Vaccine_Pas\\AOOP_Vaccine_Pas.csproj",
-      "packagesPath": "C:\\Users\\s164863\\.nuget\\packages\\",
-      "outputPath": "D:\\OneDrive - Danmarks Tekniske Universitet\\DTU\\SoftwareEngineering\\6th Semester\\C#\\AOOP_Vaccinepas\\AOOP_Vaccine_Pas\\obj\\",
+      "projectPath": "E:\\aaop_prog\\AOOP_Vaccine_Pas\\AOOP_Vaccine_Pas.csproj",
+      "packagesPath": "C:\\Users\\borgs\\.nuget\\packages\\",
+      "outputPath": "E:\\aaop_prog\\AOOP_Vaccine_Pas\\obj\\",
       "projectStyle": "PackageReference",
-      "fallbackFolders": [
-        "C:\\Microsoft\\Xamarin\\NuGet\\"
-      ],
       "configFilePaths": [
-        "C:\\Users\\s164863\\AppData\\Roaming\\NuGet\\NuGet.Config",
-        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
-        "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
+        "C:\\Users\\borgs\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
         "netcoreapp3.1"
@@ -68,7 +63,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.103\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.201\\RuntimeIdentifierGraph.json"
       }
     }
   }
