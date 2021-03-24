@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "E:\\DTU_proj_C#\\AOOP_LocalFoler\\AOOP_Vaccinepas\\AOOP_Vaccine_Pas\\AOOP_Vaccine_Pas.csproj": {}
+    "E:\\DTU_proj_C#\\AOOP_LocalFoler\\AOOP_Vaccinepas\\AOOP_Vaccinepas.csproj": {}
   },
   "projects": {
-    "E:\\DTU_proj_C#\\AOOP_LocalFoler\\AOOP_Vaccinepas\\AOOP_Vaccine_Pas\\AOOP_Vaccine_Pas.csproj": {
+    "E:\\DTU_proj_C#\\AOOP_LocalFoler\\AOOP_Vaccinepas\\AOOP_Vaccinepas.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "E:\\DTU_proj_C#\\AOOP_LocalFoler\\AOOP_Vaccinepas\\AOOP_Vaccine_Pas\\AOOP_Vaccine_Pas.csproj",
-        "projectName": "AOOP_Vaccine_Pas",
-        "projectPath": "E:\\DTU_proj_C#\\AOOP_LocalFoler\\AOOP_Vaccinepas\\AOOP_Vaccine_Pas\\AOOP_Vaccine_Pas.csproj",
+        "projectUniqueName": "E:\\DTU_proj_C#\\AOOP_LocalFoler\\AOOP_Vaccinepas\\AOOP_Vaccinepas.csproj",
+        "projectName": "AOOP_Vaccinepas",
+        "projectPath": "E:\\DTU_proj_C#\\AOOP_LocalFoler\\AOOP_Vaccinepas\\AOOP_Vaccinepas.csproj",
         "packagesPath": "C:\\Users\\borgs\\.nuget\\packages\\",
-        "outputPath": "E:\\DTU_proj_C#\\AOOP_LocalFoler\\AOOP_Vaccinepas\\AOOP_Vaccine_Pas\\obj\\",
+        "outputPath": "E:\\DTU_proj_C#\\AOOP_LocalFoler\\AOOP_Vaccinepas\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\borgs\\AppData\\Roaming\\NuGet\\NuGet.Config",

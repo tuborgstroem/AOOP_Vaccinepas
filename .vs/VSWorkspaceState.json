@@ -1,7 +1,13 @@
 {
   "ExpandedNodes": [
-    ""
+    "",
+    "\\AOOP_Vaccine_Pas",
+    "\\BackendCore",
+    "\\BackendCore\\Backend",
+    "\\SQL_scripts",
+    "\\Tests",
+    "\\Tests\\Backend"
   ],
-  "SelectedNode": "\\AOOP_Vaccine_Pas.sln",
+  "SelectedNode": "\\AOOP_Vaccinepas.sln",
   "PreviewInSolutionExplorer": false
 }
